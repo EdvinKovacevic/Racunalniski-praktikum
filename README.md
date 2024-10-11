@@ -1,4 +1,4 @@
-#Racunalniski praktikum
+# Racunalniski praktikum
 
 <!-- glavni naslov -->
 Računalniški praktikum
