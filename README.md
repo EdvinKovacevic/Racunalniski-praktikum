@@ -1,3 +1,3 @@
 # Računalniški praktikum
 
-https://edvinkovacevic.github.io/
+Spletna stan: https://edvinkovacevic.github.io/
